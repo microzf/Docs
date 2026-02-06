@@ -34,6 +34,7 @@ The following step-by-step guides for developing ASP.NET Core applications are a
 * [Create Tag Helpers](xref:mvc/views/tag-helpers/authoring)
 * [Create a simple view component](xref:mvc/views/view-components#walkthrough-creating-a-simple-view-component)
 * [Develop apps using a file watcher](xref:tutorials/dotnet-watch)
+* [Visual Studio 2026 Version Control Methods](xref:tutorials/vs-2026-version-control)
 
 ## Build Web APIs
 

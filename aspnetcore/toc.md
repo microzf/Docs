@@ -111,6 +111,8 @@
 
 ## [Develop apps using a file watcher](xref:tutorials/dotnet-watch)
 
+## [Visual Studio 2026 Version Control Methods](xref:tutorials/vs-2026-version-control)
+
 ## [Create backend services for mobile apps](mobile/native-mobile-backend.md)
 
 # [Fundamentals](xref:fundamentals/index)
