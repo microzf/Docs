@@ -207,10 +207,6 @@ obj/
 
 # User-specific files
 *.rsuser
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
 ```
 
 ### Code Reviews
